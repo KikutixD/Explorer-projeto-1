@@ -1,7 +1,17 @@
 body {
   font-family: "Open Sans", sans-serif;
+  line-height: 28px;
+  font-size: 14px;
 }
 
 h1 {
   font-family: "Inter", sans-serif;
+  font-weight: normal;
+  line-height: 56px;
+  font-size: 49px;
+}
+#footer {
+  font-family: "Open Sans", sans-serif;
+  line-height: 28px;
+  font-size: 14px;
 }

@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+#hero {
+  width: 592px;
+  margin: 0 auto 72px;
+}
+#hero img {
+  margin-bottom: 72px;
+}
+span,
+a {
+  color: #ff9900;
+}
+
+h1 {
+  margin-bottom: 32px;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+p {
+  color: #7d7987;
+}
+
+.line {
+  width: 568px;
+  height: 0;
+  margin: 0 auto 8px;
+  border: 1px solid #eceff2;
+}
+#footer a + a {
+  margin-left: 28px;
+}
+
+#balls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
